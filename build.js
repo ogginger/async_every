@@ -26,5 +26,5 @@
 	"AsyncIterator"
     ],
     name: "async_every",
-    out: "async_ever.min.js"
+    out: "async_every.min.js"
 })
